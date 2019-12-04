@@ -1,0 +1,20 @@
+
+.bg1 { background: url(images/img04.gif) no-repeat left bottom; }
+.bg2 { background: url(images/img05.gif) no-repeat left bottom; }
+.bg3 { background: url(images/img06.gif) no-repeat left bottom; }
+.bg4 { background: url(images/img08.gif) no-repeat left bottom; }
+.bg5 { background: url(images/img09.gif) no-repeat left bottom; }
+.bg6 { background: url(images/img10.gif) no-repeat right bottom; }
+.bg7 { background: url(images/img11.gif) no-repeat right bottom; }
+
+
+
+.box .title {
+	height: 40px;
+	padding: 20px 0 0 40px;
+	
+	font-size: 167%;
+}
+
+.box .content {
+}
